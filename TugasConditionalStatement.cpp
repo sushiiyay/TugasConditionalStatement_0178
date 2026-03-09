@@ -28,5 +28,11 @@ int main(){
     cout << endl;
 
     cout << "Masukkan Berat Badan (KG) = ";
+    cin >> berat;
+    cout << "Masukkan Tinggi Badan (M) = ";
+    cin >> tinggi;
+
+    cout << endl;
+    cout <<"--- Hasil ---" <<endl;
 
 }
