@@ -9,4 +9,7 @@ string status_BeratBadan (float bmi){
     if (bmi < 18.5){
         return "Berat Badan Kurang";
     }  
+    else if (bmi <25){
+        
+    }
 }
